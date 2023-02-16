@@ -1,0 +1,38 @@
+*{
+    font-family: 'Verdana';
+}
+h2{
+    color: gray;
+}
+
+#QueenImage{
+    height: 200px;
+    width: 400px;
+}
+#GrandesExitos{
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    border: 1px black;
+}
+#filas, #ColumnaAño,#ColumnaDisco{
+    border: 1px solid black ;
+
+}
+
+#ColumnaAño,#ColumnaDisco{
+    padding: 10px;
+    padding-right: 2rem;
+}
+
+.PrimeraFila{
+    background-color: rgb(52, 52, 52);
+    color: white;
+    text-align: center;
+}
+.FilaFooter{
+    border: 1px solid black;
+    background-color: rgb(168, 168, 168);
+    padding: 10px;
+}
